@@ -77,7 +77,11 @@
       
         <tags>
             
-            <tag> hexo,markdown,教程 </tag>
+            <tag> hexo </tag>
+            
+            <tag> markdown </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
@@ -102,7 +106,13 @@
       
         <tags>
             
-            <tag> hexo,markdown,post,写作,教程 </tag>
+            <tag> hexo </tag>
+            
+            <tag> markdown </tag>
+            
+            <tag> 教程 </tag>
+            
+            <tag> post </tag>
             
         </tags>
       
