@@ -362,3 +362,9 @@ h6::before {
   background: url(/img/head.png) no-repeat center center;
   background-size: cover;
 }
+
+
+/* 页面宽度*/
+/* .layout{
+  max-width:1400px;
+} */
