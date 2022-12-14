@@ -1,0 +1,105 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3825185 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1671002844479') format('woff2'),
+       url('iconfont.woff?t=1671002844479') format('woff'),
+       url('iconfont.ttf?t=1671002844479') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zhaopinqiuzhi:before {
+  content: "\ffb6";
+}
+
+.icon-ershoujiaoyi:before {
+  content: "\ffb7";
+}
+
+.icon-shangpuchuzu:before {
+  content: "\ffb8";
+}
+
+.icon-fangwuchuzu:before {
+  content: "\ffb9";
+}
+
+.icon-kaitonghuiyuan:before {
+  content: "\ffba";
+}
+
+.icon-yaoqinghaoyou:before {
+  content: "\ffbb";
+}
+
+.icon-shangjiadianpu:before {
+  content: "\ffbc";
+}
+
+.icon-huangguanyonghu:before {
+  content: "\ffbd";
+}
+
+.icon-guanjunjiangbei:before {
+  content: "\ffbe";
+}
+
+.icon-zhuzhaixiaoqu:before {
+  content: "\ffbf";
+}
+
+.icon-qiyezhaopin:before {
+  content: "\ffc0";
+}
+
+.icon-xitonggonggao:before {
+  content: "\ffc1";
+}
+
+.icon-shequpinglun:before {
+  content: "\ffc2";
+}
+
+.icon-shoucangwenjian:before {
+  content: "\ffc3";
+}
+
+.icon-xiangce:before {
+  content: "\ffc4";
+}
+
+.icon-huodonglipin:before {
+  content: "\ffc5";
+}
+
+.icon-wodeqianbao:before {
+  content: "\ffc6";
+}
+
+.icon-hunshasheying:before {
+  content: "\ffc7";
+}
+
+.icon-huore:before {
+  content: "\ffc8";
+}
+
+.icon-lvyoulvhang:before {
+  content: "\ffc9";
+}
+
+.icon-rili:before {
+  content: "\ffca";
+}
+
+.icon-zixun:before {
+  content: "\ffcb";
+}
+
