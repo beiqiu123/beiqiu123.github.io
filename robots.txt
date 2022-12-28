@@ -1,0 +1,8 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+Allow: /archives/
+ 
+Disallow: /vendors/
+Disallow: /js/ Disallow: /css/ Disallow: /fonts/ Disallow: /vendors/ Disallow: /fancybox/ 
+Sitemap: https://yhmyhm.cnm/sitemap.xml Sitemap: https://yhmyhm.cnm/baidusitemap.xml
