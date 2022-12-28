@@ -9,5 +9,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+Disallow: /img/
 Sitemap: https://yhmyhm.cnm/sitemap.xml
 Sitemap: https://yhmyhm.cnm/baidusitemap.xml
